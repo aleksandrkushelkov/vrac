@@ -1,3 +1,9 @@
 {
-  "files": []
+  "files": [
+    {
+      "name": "Assembly-CSharp.dll",
+      "url": "https://github.com/aleksandrkushelkov/vrac/raw/refs/heads/main/Assembly-CSharp.dll",
+      "hash": "117136785f1f01b10645f5875d993da509313586b5e57509bcc05b9924a959c3"
+    }
+  ]
 }
